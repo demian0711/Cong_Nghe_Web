@@ -1,1 +1,0 @@
-Việc máy chủ trả về lỗi 500 Internal Server Error có ý nghĩa gì đối với các yêu cầu (requests) tài nguyên tiếp theo được hiển thị trong tab Network (ví dụ: các tệp .css, .js, .jpg, v.v.)? Những yêu cầu tài nguyên này có khả năng được thực hiện thành công hay thất bại, và tại sao?
